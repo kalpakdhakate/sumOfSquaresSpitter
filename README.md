@@ -1,4 +1,6 @@
-# SqRootSumSpitter
+# sumOfSquaresSpitter
+
+This thing spits out the sum of the squares of a sequence of numbers. Made using Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
