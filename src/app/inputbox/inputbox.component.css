@@ -1,0 +1,23 @@
+input {
+    border-width: 2%;
+    border-color: honeydew;
+    border-style: solid; 
+    font-size: 69%;
+    border-radius: 100pt;
+    background-color: rgba(9, 10, 20, 0.938);
+    caret-color: honeydew;
+    color: honeydew;
+    padding: 0.5% 0 0.5% 0;
+    padding-inline-start: 1.5%;
+}
+
+input:focus {
+    outline: none;
+}
+
+.textresult {
+    text-align: left;
+    margin: 0 26% 0 26%;
+    max-width: 50%; 
+    /* border: solid; */
+}
