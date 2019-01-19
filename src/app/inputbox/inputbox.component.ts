@@ -8,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class InputboxComponent implements OnInit {
 
   nums = {input: ''};
+  result = {output: ''};
+
 
   constructor() { }
 
