@@ -9,6 +9,7 @@ input {
     color: honeydew;
     padding: 0.5% 0 0.5% 0;
     padding-inline-start: 1.5%;
+    max-width: 50%;
 }
 
 input:focus {
